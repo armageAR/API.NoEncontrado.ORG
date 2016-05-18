@@ -14,6 +14,7 @@ URL de aceso Publico
 http://api.noencontrado.org/v1/search/
 
 Datos obtenidos
+
     "data": {
         "id": "0ed1f9a348c6765a279412f8d2d1cbf3",
         "nombre": "CAMILA",
@@ -26,6 +27,7 @@ Datos obtenidos
         "edad": 16
     }
 }
+
 
 Imagen
 Para obtener la imagen de la busqueda se debe conformar de la siguiente forma
