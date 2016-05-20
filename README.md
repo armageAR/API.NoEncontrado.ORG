@@ -2,11 +2,11 @@
 
 La version actual de nuestra API esta basada en el codigo Jacwright API (@jacwright)
 
-|URL                          | HTTP Method   |Operation|
-|-----------------------------|---------------|--------------------------------|
-|/api/search                  | GET           |Obtiene los datos, de forma aleatoria, de una de las busquedas activas|
-|/api/last                    | GET           |Obtiene los datos de todas las busquedas activas|
-|/api/last/:n                 | GET           |Obtiene los datos de las ultimas n busquedas activas|
+|URL                      | HTTP Method   |Operation|
+|-------------------------|---------------|--------------------------------|
+|/search                  | GET           |Obtiene los datos, de forma aleatoria, de una de las busquedas activas|
+|/last                    | GET           |Obtiene los datos de todas las busquedas activas|
+|/last/:n                 | GET           |Obtiene los datos de las ultimas n busquedas activas|
 
 
 
@@ -26,7 +26,7 @@ http://api.noencontrado.org/v1/search/
         "residencia": "San Miguel del Monte, Buenos Aires",
         "edad": 16
     }
-}
+
 
 
 ###Imagen
